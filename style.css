@@ -1,0 +1,13 @@
+.network {
+    display:inline-block;
+    width:500px;
+    height:500px;
+    border:solid;
+    background-color:white;
+  }
+  .report {
+    display:inline-block;
+    width:200px;
+    vertical-align:top;
+  }
+  
